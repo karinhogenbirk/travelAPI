@@ -1,0 +1,73 @@
+[
+{
+"country": "Vietnam",
+"religion": "atheist",
+"language": ["Vietnamese", "French"],
+"currency": ["Dong"],
+"id": 1
+},
+{
+ "country": "Cambodia",
+ "religion": "Buddhist",
+ "language": ["Khmer", "French"],
+ "currency": ["Riel", "Dollar"],
+ "id": 2
+},
+{
+    "country": "England",
+    "religion": "Christian",
+    "language": ["English"],
+    "currency": ["Pound"],
+    "id": 3 
+   },
+   {
+    "country": "Spain",
+    "religion": "Catholic",
+    "language": ["Spanish", "Catalan"],
+    "currency": ["Euro"],
+    "id": 4  
+   },
+   {
+    "country": "Cuba",
+    "religion": "Catholic",
+    "language": ["Spanish"],
+    "currency": ["Dollar", "Peso"],
+    "id": 5
+   },
+   {
+    "country": "Philippines",
+    "religion": "Christian",
+    "language": ["Spanish", "Tagalog"],
+    "currency": ["Dollar", "Peso"],
+    "id": 6  
+   },
+   {
+    "country": "Australia",
+    "religion": "Christian",
+    "language": ["English"],
+    "currency": ["Dollar"],
+    "id": 7
+   },
+   {
+    "country": "France",
+    "religion": "Catholic",
+    "language": ["French"],
+    "currency": ["Euro"],
+    "id": 8
+   },
+   {
+    "country": "Greece",
+    "religion": "Christian",
+    "language": ["Greek"],
+    "currency": ["Euro"],
+    "id": 9
+   },
+   {
+    "country": "Sweden",
+    "religion": "Christian",
+    "language": ["Swedish"],
+    "currency": ["Euro"],
+    "id": 10
+   }
+
+]

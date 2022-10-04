@@ -1,0 +1,72 @@
+[
+    {
+        "activity": "Scuba diving",
+        "category": "Water activity",
+        "intensity": "Moderate",
+        "country": ["Vietnam", "Cuba", "Spain", "Greece", "Australia"],
+        "id": 0
+    },
+    {
+        "activity": "Rock climbing",
+        "category": "Outdoors",
+        "intensity": "Vigorous",
+        "country": ["France", "Vietnam", "Sweden"],
+        "id": 1
+    },
+    {
+        "activity": "Snorkeling",
+        "category": "Water activity",
+        "intensity": "Light",
+        "country": ["Vietnam", "Cuba", "Spain", "Greece", "Australia"],
+        "id": 2
+    },
+    {
+        "activity": "Hiking",
+        "category": "Outdoors",
+        "intensity": "Moderate",
+        "country": ["Vietnam", "England", "France"],
+        "id": 3
+    },
+    {
+        "activity": "Temple visiting",
+        "category": "Culture",
+        "intensity": "Light",
+        "country": ["Vietnam", "Cambodia"],
+        "id": 4
+    },
+    {
+        "activity": "Motor riding",
+        "category": "Dare devils",
+        "intensity": "Vigorous",
+        "country": ["Vietnam", "Cambodia", "Australia"],
+        "id": 5
+    },
+    {
+        "activity": "Para gliding",
+        "category": "Dare devils",
+        "intensity": "Vigorous",
+        "country": ["France", "Cambodia", "Australia"],
+        "id": 6
+    },
+    {
+        "activity": "Sun bathing",
+        "category": "Relaxation",
+        "intensity": "Light",
+        "country": ["France", "Spain", "Australia", "Cuba", "Greece"],
+        "id": 7
+    },
+    {
+        "activity": "Spa",
+        "category": "Relaxation",
+        "intensity": "Light",
+        "country": ["Vietnam", "Cambodia", "Australia"],
+        "id": 8
+    },
+    {
+        "activity": "City walks",
+        "category": "Culture",
+        "intensity": "Moderate",
+        "country": ["England", "Spain", "Sweden", "France"],
+        "id": 9
+    }
+]
